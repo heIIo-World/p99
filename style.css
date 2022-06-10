@@ -1,0 +1,45 @@
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    text-align:center;
+    font-weight:600;
+    color:cornflowerblue;
+    font-size: 16px;
+}
+
+#body {
+    background-color:azure;
+}
+
+#h1 {
+    font-family:sans-serif;
+    font-style:normal;
+    font-weight:600;
+    font-size:50px;
+    color:cornflowerblue;
+}
+h4 {
+    font-family:sans-serif;
+    font-style:normal;
+    font-weight:600;
+    font-size:20px;
+    color:cornflowerblue;
+}
+#camera {
+    width:50px;
+    height:40px;
+    border-color: cornflowerblue;
+}
+
+#img {
+   border: 6px solid #6495ed;
+   box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+    width:30%
+}
+
+#img:hover {
+border: 10px solid #6495ed;
+width:33%;
+height:36%
+}
